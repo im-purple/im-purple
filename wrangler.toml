@@ -1,5 +1,5 @@
 name = "im-purple-worker"
-main = "index.js"
+main = "index.ts"
 compatibility_date = "2026-06-26"
 
 [triggers]
